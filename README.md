@@ -11,3 +11,6 @@
  * Gallery: Representa o objeto pai que contém todos os objetos. Essa classe contém a lista dos objetos e o índice do objeto em foco. Essa classe escuta eventos da classe GameInput para realizar as ações da câmera.
  * GalleryObject: Contém as informações sobre seu respectivo objeto. Especiicamente, relaciona o objeto com sua câmera.
  * GameInput: Dispara eventos que vão ser ouvidos por outras classes quando as ações de controle são executadas pelo usuário.
+
+## Como executar:
+ * O executável se encontra na pasta Build, é o arquivo CG_A3.exe
